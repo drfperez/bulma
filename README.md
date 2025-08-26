@@ -1,2 +1,2 @@
 # bulma
-Bulma basic menu for my students 
+Menú desplegable amb menú diürn i nocturn empramt Bulma 1.0.4
